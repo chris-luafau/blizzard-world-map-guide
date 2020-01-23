@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5c97a428f710ab2b6b716243beb2d216",
+    "revision": "252c0d9c8d19e8ea2334bb64362a7340",
     "url": "/blizzard-world-map-guide/index.html"
   },
   {
