@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/blizzard-world-map-guide/static/js/main.3018346e.chunk.js",
-    "main.js.map": "/blizzard-world-map-guide/static/js/main.3018346e.chunk.js.map",
+    "main.js": "/blizzard-world-map-guide/static/js/main.5f951fbf.chunk.js",
+    "main.js.map": "/blizzard-world-map-guide/static/js/main.5f951fbf.chunk.js.map",
     "runtime-main.js": "/blizzard-world-map-guide/static/js/runtime-main.1ca8136a.js",
     "runtime-main.js.map": "/blizzard-world-map-guide/static/js/runtime-main.1ca8136a.js.map",
     "static/js/2.d217c9ac.chunk.js": "/blizzard-world-map-guide/static/js/2.d217c9ac.chunk.js",
     "static/js/2.d217c9ac.chunk.js.map": "/blizzard-world-map-guide/static/js/2.d217c9ac.chunk.js.map",
     "index.html": "/blizzard-world-map-guide/index.html",
-    "precache-manifest.b33ded955dc5364640f535523db3f358.js": "/blizzard-world-map-guide/precache-manifest.b33ded955dc5364640f535523db3f358.js",
+    "precache-manifest.7a2d908a069163cb07a5e93c732db63a.js": "/blizzard-world-map-guide/precache-manifest.7a2d908a069163cb07a5e93c732db63a.js",
     "service-worker.js": "/blizzard-world-map-guide/service-worker.js",
     "static/js/2.d217c9ac.chunk.js.LICENSE": "/blizzard-world-map-guide/static/js/2.d217c9ac.chunk.js.LICENSE",
     "static/media/bignoodletoo.ttf": "/blizzard-world-map-guide/static/media/bignoodletoo.54f32a53.ttf",
@@ -26,6 +26,6 @@
   "entrypoints": [
     "static/js/runtime-main.1ca8136a.js",
     "static/js/2.d217c9ac.chunk.js",
-    "static/js/main.3018346e.chunk.js"
+    "static/js/main.5f951fbf.chunk.js"
   ]
 }
