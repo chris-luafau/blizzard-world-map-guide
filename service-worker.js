@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/blizzard-world-map-guide/precache-manifest.5f4337da14171372982a8f69cb74f066.js"
+  "/blizzard-world-map-guide/precache-manifest.c617137c1d1a76187ffe556ed6f02fd6.js"
 );
 
 self.addEventListener('message', (event) => {
