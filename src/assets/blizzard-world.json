@@ -1,0 +1,263 @@
+
+{
+  "data": [
+    {
+      "game": "World of Warcraft",
+      "area": "A1",
+      "name": "Hearthstone Tavern",
+      "desc": "A cosy tavern to gather with friends and foes alike to battle it out, Hearthstone style!"
+    },
+    {
+      "game": "World of Warcraft",
+      "area": "A1",
+      "name": "Fargodeep Mine",
+      "desc": "A dangerous mine overun with Kobolds. Located in Elwynn Forest in the Eastern Kingdoms."
+    },
+    {
+      "game": "World of Warcraft",
+      "area": "A1",
+      "name": "Flight to Duskwood",
+      "desc": "Travel from the beautiful city of Stormwind to the twisted and dark forest of Duskwood...on a gryphon!"
+    },
+    {
+      "game": "World of Warcraft",
+      "area": "A1",
+      "name": "Snaxxramas",
+      "desc": "Based on the infamous dungeon Naxxramas, that floats above Dragonblight, in Northrend."
+    },
+    {
+      "game": "World of Warcraft",
+      "area": "A1",
+      "name": "Booty Bay",
+      "desc": "Based on the pirate port city, Booty Bay, located in Strangthorn Vale."
+    },
+    {
+      "game": "World of Warcraft",
+      "area": "A1",
+      "name": "Murloc Island",
+      "desc": "An island home to the most infamous creatures in Azeroth...Murlocs! Blrghhrhhgh!"
+    },
+    {
+      "game": "Heroes of the Storm",
+      "area": "A1",
+      "name": "Blackheart's Revenge",
+      "desc": "References the game mode of the same name from Heroes of the Storm, where one team is tasked with escorting the pirate Blackheart and his ship through the bay while the other team attempts to sink the ship."
+    },
+    {
+      "game": "World of Warcraft",
+      "area": "A1",
+      "name": "Stone Cairn Lake",
+      "desc": "A once peaceful lake, now infested with Murlocs and Rogue Wizards, located in Elwynn Forest. Named after the Heroes’ Vigil, a stone cairn monument commemorating the loss of lives during the First War against the orcs."
+    },
+    {
+      "game": "World of Warcraft",
+      "area": "A1",
+      "name": "Deeprun Tram",
+      "desc": "An underground tram that runs between Ironforge and Stormwind."
+    },
+    {
+      "game": "World of Warcraft",
+      "area": "A2",
+      "name": "Ancient Curios",
+      "desc": "Based on the reagants shop of the same name, located in the Mage Quarter of Stormwind."
+    },
+    {
+      "game": "World of Warcraft",
+      "area": "A2",
+      "name": "Escape From The Stockade",
+      "desc": "Based on the Horde quest from the Battle for Azeroth expansion, where the player is tasked with infiltrating The Stockade in Stormwind and extracting prisoners."
+    },
+    {
+      "game": "World of Warcraft",
+      "area": "A2",
+      "name": "Auction House Gift Shop",
+      "desc": "Based on the bustling Auction House located in Stormwind."
+    },
+    {
+      "game": "World of Warcraft",
+      "area": "A2",
+      "name": "Pestle's Apothecary",
+      "desc": "Based on the alchemy and reagants shop of the same name, located in the Trade District of Stormwind"
+    },
+    {
+      "game": "World of Warcraft",
+      "area": "A3",
+      "name": "Khadgar's Herbs",
+      "desc": "Named after the legendary Archmage Khadgar, one of the most powerful wizards in all of Azeroth. He even has an herb named after him - Khadgar’s Whisker!"
+    },
+    {
+      "game": "Heroes of the Storm",
+      "area": "A3",
+      "name": "Lost and Found Vikings",
+      "desc": "Based on the playable heroes, Erik the Swift, Baleog the Fierce, and Olaf the Stout. Fun fact...their poses are a reference to the John Travolta in Pulp Fiction meme!"
+    },
+    {
+      "game": "World of Warcraft",
+      "area": "A3",
+      "name": "Wizard's Sanctum Magic Show",
+      "desc": "Based on a tower known as the Wizard's Sanctum that lies in the center of the Mage Quarter in Stormwind. The structure houses portals to various parts of Stormwind."
+    },
+    {
+      "game": "World of Warcraft",
+      "area": "A3",
+      "name": "The Mage District",
+      "desc": "Named after the district of the same name, located in Stormwind City."
+    },
+    {
+      "game": "World of Warcraft",
+      "area": "A3",
+      "name": "Moonwell",
+      "desc": "Reference to moonwells, which are pools of magical waters created the night elves to maintain and restore the magical powers."
+    },
+    {
+      "game": "Starcraft",
+      "area": "B",
+      "name": "Pylon Terrace",
+      "desc": "References pylons, which are protoss structures needed for a probe to be able to warp in most protoss buildings. They serve as the primary source of the Psionic Matrix power field."
+    },
+    {
+      "game": "Starcraft",
+      "area": "B",
+      "name": "Ghost Academy",
+      "desc": "References the terran structure of the same name. It’s used to produce ghosts, and when used with a factory, can produce nukes. Not a school!"
+    },
+    {
+      "game": "Starcraft",
+      "area": "B",
+      "name": "The Nexus Experience",
+      "desc": "Based on the Nexus, which is an object with reality-altering and world-changing powers. Many of the brawl modes require teams to destroy their enemy’s Nexus in order to win."
+    },
+    {
+      "game": "Heroes of the Storm",
+      "area": "B",
+      "name": "Heroes Arcade",
+      "desc": "An arcade with games referencing heroes from the game."
+    },
+    {
+      "game": "Starcraft",
+      "area": "B",
+      "name": "The Hatchery Petting Zoo",
+      "desc": "Based on a structure known as the Hatchery. It produces a substance called creep and creates larvae that can mutate into various forms. Would not recommend petting."
+    },
+    {
+      "game": "Diablo",
+      "area": "B",
+      "name": "Reign of the Black King",
+      "desc": "References the quest of the same name, which requires players to travel through the Crypt of the Skeleton King and defeat the Skeleton King himself."
+    },
+    {
+      "game": "Starcraft",
+      "area": "B",
+      "name": "Spawning Pools Water Park",
+      "desc": "References spawning pools from Starcraft, which are pits of ooze that contain the genetic makeup of the zergling, and makes possible serveral zergling evolutions."
+    },
+    {
+      "game": "Starcraft",
+      "area": "B",
+      "name": "Nydus Worm Slide",
+      "desc": "Reference to the zerg structure of the same name, which is used to move units quickly around the map. The worm transports Zerg warriors through underground tunnels. Gross."
+    },
+    {
+      "game": "Diablo",
+      "area": "C",
+      "name": "Caldeum Market",
+      "desc": "References the city of Caldeum, known to be the greatest city in the entire Kehjistan Empire, and possibly in all of Sanctuary itself."
+    },
+    {
+      "game": "Diablo",
+      "area": "C",
+      "name": "The Slaughtered Calf Inn",
+      "desc": "Based on an inn of the same name, found in the town of New Tristram."
+    },
+    {
+      "game": "Diablo",
+      "area": "C",
+      "name": "New Tristram",
+      "desc": "Based on the town of the same name located in central Khanduras, and was built near the ruins of Old Tristram."
+    },
+    {
+      "game": "Diablo",
+      "area": "C",
+      "name": "Shen's Delights",
+      "desc": "Based on a Legendary Amulet of the same name and the jeweler known as Covetous Shen. The item was removed from release for unknown reasons."
+    },
+    {
+      "game": "Diablo",
+      "area": "C",
+      "name": "Den of Evil",
+      "desc": "Reference to the very first quest players can acquire. Players had to find a cave know as the Den of Evil, and defeat the creatures within."
+    },
+    {
+      "game": "Diablo",
+      "area": "C",
+      "name": "Tyrael's Fall",
+      "desc": "Reference to the angel Tyrael, whom renounced his angelhood and came crashing from the High Heavens down to Sanctuary, and into the Tristram Cathedral."
+    },
+    {
+      "game": "Starcraft",
+      "area": "D",
+      "name": "Command Center Lift Off",
+      "desc": "Reference the Command Center - a structure that serves as the town center of a Terran base. "
+    },
+    {
+      "game": "Diablo",
+      "area": "D",
+      "name": "Tristram Cathedral",
+      "desc": "Reference to the ancient Horadrim edifice of the same name. It is where the angel Tyrael crash landed after falling from the High Heavens."
+    },
+    {
+      "game": "Starcraft",
+      "area": "D",
+      "name": "Journey to Auir",
+      "desc": "References Auir, the homeworld of the Protoss race."
+    },
+    {
+      "game": "World of Warcraft",
+      "area": "E",
+      "name": "Gates of Orgrimmar",
+      "desc": "References the main gateway to the Horde capital city, Orgimmar."
+    },
+    {
+      "game": "World of Warcraft",
+      "area": "E",
+      "name": "Blackrock Mountain",
+      "desc": "References an area located between the Burning Steppes and the Searing Gorge. Known to be one of the most dangerous place in Azeroth."
+    },
+    {
+      "game": "World of Warcraft",
+      "area": "E",
+      "name": "Darkmoon Faire",
+      "desc": "Reference the festival of the same name, that occurs once a month, for a week, in southern area of Darkmoon Island. Players can participate in various games and activites to win prizes."
+    },
+    {
+      "game": "World of Warcraft",
+      "area": "E",
+      "name": "Darkmoon Ferris Wheel",
+      "desc": "Reference the attraction of the same name, located at the Darkmoon Faire."
+    },
+    {
+      "game": "Starcraft",
+      "area": "E",
+      "name": "Overlord Transport",
+      "desc": "References the overlords, which are zerg flyers used to provide control over minions."
+    },
+    {
+      "game": "World of Warcraft",
+      "area": "F",
+      "name": "Zeppelin Landing",
+      "desc": "References the flying Zeppelins and the landing pads used to drop-off and pick-up players."
+    },
+    {
+      "game": "World of Warcraft",
+      "area": "F",
+      "name": "The Hellscream",
+      "desc": "References Garrosh Hellscream, the former warchief of the Horde."
+    },
+    {
+      "game": "World of Warcraft",
+      "area": "F",
+      "name": "Siege of Orgrimmar",
+      "desc": "References the event and raid of the same name, where the Alliance and many of the Horde, fought and defeated Garrosh Hellscream and his army. "
+    }
+  ]
+}
