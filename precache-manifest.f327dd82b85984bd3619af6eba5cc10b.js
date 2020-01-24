@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "eea9724d8d766e97a1278bd0d3eeb24a",
+    "revision": "c6d5b4ea6f9d84004f7a1554dae94394",
     "url": "/blizzard-world-map-guide/index.html"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/blizzard-world-map-guide/static/js/2.23c6e67c.chunk.js.LICENSE"
   },
   {
-    "revision": "959983d02509a797b333",
-    "url": "/blizzard-world-map-guide/static/js/main.ebb7376b.chunk.js"
+    "revision": "ed0225d83c299632c85f",
+    "url": "/blizzard-world-map-guide/static/js/main.ebdae5a4.chunk.js"
   },
   {
     "revision": "ad9485840bafe13469e6",
