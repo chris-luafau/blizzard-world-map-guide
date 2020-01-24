@@ -1,8 +1,12 @@
+
 import React from 'react'
-import ImageMapper from 'react-image-mapper'
+import MediaQuery from 'react-responsive'
 import styled, {createGlobalStyle} from 'styled-components'
-import MapImg from './assets/blizzard-world-map.jpg'
+import ImageMapper from 'react-image-mapper'
 import source from './assets/blizzard-world.json'
+
+/* Images */
+import MapImg from './assets/blizzard-world-map.jpg'
 import MapLeft from './assets/blizz-world-left.jpg'
 import MapCenter from './assets/blizz-world-center.jpg'
 import MapRight from './assets/blizz-world-right.jpg'
@@ -13,8 +17,9 @@ import SCLogo from './assets/sc-logo.png'
 import HSLogo from './assets/hs-logo.png'
 import DiabloLogo from './assets/diablo-logo.png'
 import BackgroundIMG from './assets/blizz-background-3.jpg'
+
+/* Font */
 import OWFont from './bignoodletoo.ttf'
-import MediaQuery from 'react-responsive'
 
 export default class App extends React.Component {
 
@@ -72,7 +77,6 @@ export default class App extends React.Component {
   showInfo(area) {
     if (area) {
       let info = this.state.data[this.state.data.findIndex(item => item.name === area.name)];
-      //alert(info.name + '. ' + info.desc);
       this.setState({area: area});
       this.setState({showInfo: true});
       this.setState({openContainer: true});
@@ -103,18 +107,16 @@ export default class App extends React.Component {
           <AppWrapper showInfo={this.state.showInfo}>
             <Container onClick={() => {this.handleContainerClick()}} open={this.state.openContainer}>
               <Cover2 open={this.state.openContainer}>
-                <Front2></Front2>
-                <Back2></Back2>
+                <Front2 />
+                <Back2 />
               </Cover2>
               <Cover open={this.state.openContainer}>
-                <Front1></Front1>
-                <Back1></Back1>
+                <Front1 />
+                <Back1 />
               </Cover>
               <Div open={this.state.openContainer}>
                 <InfoModal showInfo={this.state.showInfo} open={this.state.openContainer}>
-                  <Info
-                    gameInfo={this.state.gameInfo}
-                  />
+                  <Info gameInfo={this.state.gameInfo} />
                 </InfoModal>
                 <ImgWrapper2 open={this.state.openContainer}>
                   <ImageMapper
@@ -135,12 +137,12 @@ export default class App extends React.Component {
           <AppWrapper showInfo={this.state.showInfo}>
             <Container onClick={() => {this.handleContainerClick()}} open={this.state.openContainer}>
               <Cover2 open={this.state.openContainer}>
-                <Front2></Front2>
-                <Back2></Back2>
+                <Front2 />
+                <Back2 />
               </Cover2>
               <Cover open={this.state.openContainer}>
-                <Front1></Front1>
-                <Back1></Back1>
+                <Front2 />
+                <Back2 />
               </Cover>
               <Div open={this.state.openContainer}>
                 <ImgWrapper2 open={this.state.openContainer}>
@@ -154,12 +156,9 @@ export default class App extends React.Component {
                     height={this.state.mHeight}
                   />
                 </ImgWrapper2>
-
               </Div>
               <InfoModal showInfo={this.state.showInfo} open={this.state.openContainer}>
-                <Info
-                  gameInfo={this.state.gameInfo}
-                />
+                <Info gameInfo={this.state.gameInfo} />
               </InfoModal>
             </Container>
           </AppWrapper>
@@ -168,12 +167,12 @@ export default class App extends React.Component {
           <AppWrapper showInfo={this.state.showInfo}>
             <Container onClick={() => {this.handleContainerClick()}} open={this.state.openContainer}>
               <Cover2 open={this.state.openContainer}>
-                <Front2></Front2>
-                <Back2></Back2>
+                <Front2 />
+                <Back2 />
               </Cover2>
               <Cover open={this.state.openContainer}>
-                <Front1></Front1>
-                <Back1></Back1>
+                <Front2 />
+                <Back2 />
               </Cover>
               <Div open={this.state.openContainer}>
                 <ImgWrapper2 open={this.state.openContainer}>
@@ -188,9 +187,7 @@ export default class App extends React.Component {
                 </ImgWrapper2>
               </Div>
               <InfoModal showInfo={this.state.showInfo} open={this.state.openContainer}>
-                <Info
-                  gameInfo={this.state.gameInfo}
-                />
+                <Info gameInfo={this.state.gameInfo} />
               </InfoModal>
             </Container>
           </AppWrapper>
@@ -251,6 +248,7 @@ const Map = {
 }
 
 /* FUNCTIONAL COMPONENTS */
+
 /* Component to return the contents of the info modal. */
 const Info = (props) => {
   let {gameInfo} = props
