@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.js": "/blizzard-world-map-guide/static/js/main.347a4ffa.chunk.js",
-    "main.js.map": "/blizzard-world-map-guide/static/js/main.347a4ffa.chunk.js.map",
+    "main.js": "/blizzard-world-map-guide/static/js/main.ebd3edf9.chunk.js",
+    "main.js.map": "/blizzard-world-map-guide/static/js/main.ebd3edf9.chunk.js.map",
     "runtime-main.js": "/blizzard-world-map-guide/static/js/runtime-main.1ca8136a.js",
     "runtime-main.js.map": "/blizzard-world-map-guide/static/js/runtime-main.1ca8136a.js.map",
-    "static/js/2.23c6e67c.chunk.js": "/blizzard-world-map-guide/static/js/2.23c6e67c.chunk.js",
-    "static/js/2.23c6e67c.chunk.js.map": "/blizzard-world-map-guide/static/js/2.23c6e67c.chunk.js.map",
+    "static/js/2.95d26c5a.chunk.js": "/blizzard-world-map-guide/static/js/2.95d26c5a.chunk.js",
+    "static/js/2.95d26c5a.chunk.js.map": "/blizzard-world-map-guide/static/js/2.95d26c5a.chunk.js.map",
     "index.html": "/blizzard-world-map-guide/index.html",
-    "precache-manifest.d71a5b506a15fecc99ccb8fb133e860b.js": "/blizzard-world-map-guide/precache-manifest.d71a5b506a15fecc99ccb8fb133e860b.js",
+    "precache-manifest.37f56509a210a74752917b9a916fd91f.js": "/blizzard-world-map-guide/precache-manifest.37f56509a210a74752917b9a916fd91f.js",
     "service-worker.js": "/blizzard-world-map-guide/service-worker.js",
-    "static/js/2.23c6e67c.chunk.js.LICENSE": "/blizzard-world-map-guide/static/js/2.23c6e67c.chunk.js.LICENSE",
+    "static/js/2.95d26c5a.chunk.js.LICENSE": "/blizzard-world-map-guide/static/js/2.95d26c5a.chunk.js.LICENSE",
     "static/media/bignoodletoo.ttf": "/blizzard-world-map-guide/static/media/bignoodletoo.54f32a53.ttf",
     "static/media/blizz-background-3.jpg": "/blizzard-world-map-guide/static/media/blizz-background-3.549acd0b.jpg",
     "static/media/blizz-world-center.jpg": "/blizzard-world-map-guide/static/media/blizz-world-center.22945cd9.jpg",
@@ -25,7 +25,7 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1ca8136a.js",
-    "static/js/2.23c6e67c.chunk.js",
-    "static/js/main.347a4ffa.chunk.js"
+    "static/js/2.95d26c5a.chunk.js",
+    "static/js/main.ebd3edf9.chunk.js"
   ]
 }
